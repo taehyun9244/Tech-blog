@@ -16,7 +16,7 @@ Airbnb : https://medium.com/airbnb-engineering
 
 Instagram : https://instagram-engineering.com/
 
-ebay : https://tech.ebayinc.com/
+Ebay : https://tech.ebayinc.com/
 
 Facebook : https://engineering.fb.com/
 
@@ -26,7 +26,7 @@ Slack : https://slack.engineering/
  
 Rakuten : https://engineering.rakuten.today/  , https://github.com/rakutentech
 
-zozotown : https://techblog.zozo.com/
+ZOZOTOWN : https://techblog.zozo.com/
 
 Dely : https://tech.dely.jp/
 
