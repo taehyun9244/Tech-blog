@@ -12,7 +12,7 @@ Netflix : https://netflixtechblog.com/
 
 Amazon : https://developer.amazon.com/blogs/appstore/tags/English
 
-airbnb : https://medium.com/airbnb-engineering
+Airbnb : https://medium.com/airbnb-engineering
 
 Instagram : https://instagram-engineering.com/
 
