@@ -22,6 +22,16 @@ facebook : https://engineering.fb.com/
 
 apple : https://developer.apple.com/
 
+Slack : https://slack.engineering/
+ 
+Rakuten : https://engineering.rakuten.today/  , https://github.com/rakutentech
+
+zozotown : https://techblog.zozo.com/
+
+dely : https://tech.dely.jp/
+
+DeNA : https://engineer.dena.com/
+
 
 ## 국내
 
@@ -54,3 +64,7 @@ spoqa : https://spoqa.github.io/
 당근마켓 : https://medium.com/daangn
 
 리디북스 : https://www.ridicorp.com/story-category/tech-blog/ 
+
+WATCHA : https://medium.com/watcha
+
+yogiyo : https://medium.com/deliverytechkorea
