@@ -6,21 +6,21 @@
 
 ## 국외
 
-트위터 : https://blog.twitter.com/engineering/en_us
+Twitter : https://blog.twitter.com/engineering/en_us
 
-netflix : https://netflixtechblog.com/
+Netflix : https://netflixtechblog.com/
 
-amazon : https://developer.amazon.com/blogs/appstore/tags/English
+Amazon : https://developer.amazon.com/blogs/appstore/tags/English
 
 airbnb : https://medium.com/airbnb-engineering
 
-instagram : https://instagram-engineering.com/
+Instagram : https://instagram-engineering.com/
 
 ebay : https://tech.ebayinc.com/
 
-facebook : https://engineering.fb.com/
+Facebook : https://engineering.fb.com/
 
-apple : https://developer.apple.com/
+Apple : https://developer.apple.com/
 
 Slack : https://slack.engineering/
  
@@ -28,7 +28,7 @@ Rakuten : https://engineering.rakuten.today/  , https://github.com/rakutentech
 
 zozotown : https://techblog.zozo.com/
 
-dely : https://tech.dely.jp/
+Dely : https://tech.dely.jp/
 
 DeNA : https://engineer.dena.com/
 
