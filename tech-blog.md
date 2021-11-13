@@ -2,7 +2,7 @@
 
 기술블로그에서 그 회사의 최신 기술들을 캐치하고 공부하고 준비하기.
 
-기술블로그를 보면서 각 회사의 기술트렌드를 익혀 회사면접의 대비하자, 또한 실력을 향상시키자.
+기술블로그를 보면서 각 회사의 기술트렌드를 익혀 회사면접의 대비하자, 또한 실력을 향상시키자(일본어 번역기 돌리면 이해가능합니다).
 
 ## 국외
 
@@ -23,6 +23,8 @@ Facebook : https://engineering.fb.com/
 Apple : https://developer.apple.com/
 
 Slack : https://slack.engineering/
+
+### (일본)
  
 Rakuten : https://engineering.rakuten.today/  , https://github.com/rakutentech
 
