@@ -3,7 +3,7 @@
 기술블로그에서 그 회사의 최신 기술들을 캐치하고 공부하고 준비하기.
 기술블로그를 보면서 각 회사의 기술트렌드를 익혀 회사면접의 대비하자, 또한 실력을 향상시키자.
 
-### 국외
+## 국외
 
 트위터 : https://blog.twitter.com/engineering/en_us
 
@@ -21,7 +21,8 @@ facebook : https://engineering.fb.com/
 
 apple : https://developer.apple.com/
 
-### 국내
+
+## 국내
 
 라인 프론트 : https://engineering.linecorp.com/ko/blog/category/front-end-ko/
 
