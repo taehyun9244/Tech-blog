@@ -67,4 +67,4 @@ spoqa : https://spoqa.github.io/
 
 WATCHA : https://medium.com/watcha
 
-yogiyo : https://medium.com/deliverytechkorea
+ : https://medium.com/deliverytechkorea
