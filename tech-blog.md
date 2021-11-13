@@ -59,7 +59,7 @@ NHN : https://meetup.toast.com/
 
 무신사 : https://medium.com/musinsa-tech
 
-spoqa : https://spoqa.github.io/
+SPOQA : https://spoqa.github.io/
 
 당근마켓 : https://medium.com/daangn
 
@@ -67,4 +67,4 @@ spoqa : https://spoqa.github.io/
 
 WATCHA : https://medium.com/watcha
 
- : https://medium.com/deliverytechkorea
+요기요 : https://medium.com/deliverytechkorea
